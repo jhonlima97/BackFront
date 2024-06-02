@@ -1,0 +1,9 @@
+
+<h1>Tecnologías: <small>Del Backend al Frotend</small></h1>
+<hr />
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col" *ngFor="let technology of technologies">
+      <app-technology-card [technology]="technology"></app-technology-card>
+    </div>
+</div>
