@@ -1,0 +1,5 @@
+backend/node_modules/
+frontend/.angular/
+frontend/.vscode/
+frontend/node_modules/
+frontend/src/assets/.gitkeep
