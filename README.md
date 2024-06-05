@@ -8,7 +8,7 @@
 - MongoDB  
 
 # frontend  
-- Anular 17     
+- Angular 17     
 
 Para ejecutar la app debes correr ambas apps, con los comandos:  
 - para el backend: npm start o npm run dev  
